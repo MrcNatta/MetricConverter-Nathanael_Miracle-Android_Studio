@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">metric</string>
+
+    <string-array name="length_units">
+        <item>Millimeter</item>
+        <item>Centimeter</item>
+        <item>Meter</item>
+        <item>Kilometer</item>
+    </string-array>
+
+</resources>
